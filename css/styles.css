@@ -4,11 +4,24 @@ body {
   background-repeat: fixed;
   background-attachment: scroll;
 }
+
 h1 {
   font-family: fantasy;
   text-align: center;
   text-shadow: -2px -2px #fff;
 }
+
+h2,h3, h4 {
+    font-family: fantasy;
+    text-align: center;
+  }
+
+p{
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+  }
+
 .navigation {
   width: 80%;
   margin-left: 10%;
@@ -16,25 +29,20 @@ h1 {
   border: 3px solid #ddd;
   font-family: sans-serif;
   font-size: 20px
-
 }
 
 .navigationColumn {
   width: 15%;
   text-align: center;
 }
-h2 {
-  font-family: fantasy;
-  text-align: center;
-}
-p{
-  font-family: cursive;
-  font-size: 20px;
-  text-align: center;
-}
 .woman{
   padding-left: 30%;
   padding-right: 30%;
   padding-top: 5%;
+  width: 40%;
+}
+.staff{
+  padding-left: 30%;
+  padding-right: 30%;
   width: 40%;
 }
