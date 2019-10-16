@@ -1,0 +1,40 @@
+body {
+  background-image: url('../img/cupcake1.jpg');
+  background-size: 50%;
+  background-repeat: fixed;
+  background-attachment: scroll;
+}
+h1 {
+  font-family: fantasy;
+  text-align: center;
+  text-shadow: -2px -2px #fff;
+}
+.navigation {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  border: 3px solid #ddd;
+  font-family: sans-serif;
+  font-size: 20px
+
+}
+
+.navigationColumn {
+  width: 15%;
+  text-align: center;
+}
+h2 {
+  font-family: fantasy;
+  text-align: center;
+}
+p{
+  font-family: cursive;
+  font-size: 20px;
+  text-align: center;
+}
+.woman{
+  padding-left: 30%;
+  padding-right: 30%;
+  padding-top: 5%;
+  width: 40%;
+}
