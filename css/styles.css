@@ -11,7 +11,7 @@ h1 {
   text-shadow: -2px -2px #fff;
 }
 
-h2,h3, h4 {
+h2, h3, h4 {
     font-family: fantasy;
     text-align: center;
   }
@@ -20,6 +20,9 @@ p{
     font-family: cursive;
     font-size: 20px;
     text-align: center;
+  }
+  #thing {
+    font-size: 15px;
   }
 
 .navigation {
@@ -40,16 +43,14 @@ p{
   padding-left: 30%;
   padding-right: 30%;
   padding-top: 5%;
+  padding-bottom: 5%;
 }
 
-.Cupcakes{
-  width:auto;
-  padding-left: auto;
-  padding-right: auto;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: 5%;
+.story{
+border: 2px solid black;
+font-size: 5px;
 }
+
 .flashy{
   font-style: italic;
   color: red;
@@ -58,4 +59,11 @@ p{
 .highlight{
   font-weight: bold;
   color: blue;
+}
+.cake1{
+  float: left;
+  size: 300px;
+}
+.cake2{
+  float:right;
 }
