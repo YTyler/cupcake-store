@@ -36,13 +36,26 @@ p{
   text-align: center;
 }
 .woman{
+  width: 40%;
   padding-left: 30%;
   padding-right: 30%;
   padding-top: 5%;
-  width: 40%;
 }
-.staff{
-  padding-left: 30%;
-  padding-right: 30%;
-  width: 40%;
+
+.Cupcakes{
+  width:auto;
+  padding-left: auto;
+  padding-right: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5%;
+}
+.flashy{
+  font-style: italic;
+  color: red;
+  text-shadow: -1px -1px #fff;
+}
+.highlight{
+  font-weight: bold;
+  color: blue;
 }
